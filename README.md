@@ -63,18 +63,18 @@
 
 <h3>💼 Key Projects</h3>
 
-<h4>🔹 Production-Ready MERN Web Application</h4>
+<h4>🔹 Resu_Match — AI-Powered Resume Analyzer & Interview Prep</h4>
 <ul>
-  <li>Engineered and deployed a full-stack web platform using React.js, Node.js, Express, and MongoDB.</li>
-  <li>Implemented secure authentication, optimized database queries, and designed responsive user interfaces.</li>
-  <li>Configured web servers using Nginx to act as a reverse proxy for smooth routing.</li>
+  <li>Built a MERN stack application integrated with Google Gemini AI to analyze user resumes against target job descriptions and self-descriptions.</li>
+  <li>Implemented AI scoring logic to generate match scores, highlight missing skills, and provide structured learning roadmaps.</li>
+  <li>Automated the generation of custom technical and behavioral interview questions tailored to specific roles.</li>
 </ul>
 
-<h4>🔹 Automated Deployment & Cloud Infrastructure</h4>
+<h4>🔹 EduVault — Peer-to-Peer Academic Resource Hub</h4>
 <ul>
-  <li>Provisioned cloud infrastructure on AWS EC2 instances for hosting full-stack applications.</li>
-  <li>Containerized application components using Docker to ensure consistent development and production environments.</li>
-  <li>Integrated Git and GitHub for seamless code integration and continuous deployment workflows.</li>
+  <li>Developed a full-stack platform enabling students to upload and share course-specific study materials, past question papers, and books.</li>
+  <li>Engineered course-based filtering and categorization systems to streamline resource discovery for academic preparation.</li>
+  <li>Integrated file upload capabilities and secure storage pipelines to ensure reliable media and document access across user profiles.</li>
 </ul>
 
 <hr />
