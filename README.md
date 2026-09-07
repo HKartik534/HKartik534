@@ -115,11 +115,7 @@
 
 <hr />
 
-<h3>📊 GitHub Analytics</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-handle&show_icons=true&theme=radial" alt="Kartik's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-handle&theme=radial" alt="Kartik's Contribution Streak" />
-</p>
+
 
 <hr />
 
