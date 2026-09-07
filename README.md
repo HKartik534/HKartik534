@@ -102,7 +102,7 @@
     </tr>
     <tr>
       <td><b>Full Stack Web Development (MERN)</b></td>
-      <td>Certification</td>
+      <td>O7 Services, Jalandhar</td>
       <td>Completed</td>
     </tr>
     <tr>
